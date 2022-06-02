@@ -1,0 +1,19 @@
+Circuit: * C:\Users\EG\Downloads\3607 LTSpice\sdr20.asc
+
+u2:c_cc3: both pins shorted together -- ignoring.
+u3:c_cc3: both pins shorted together -- ignoring.
+Direct Newton iteration for .op point succeeded.
+.step frq=7.0401e+006
+Heightened Def Con from 9.01782e-010 to 1.19644e-009
+Heightened Def Con from 1.36949e-009 to 4.49449e-009
+Heightened Def Con from 0.000259285 to 0.000259286
+Heightened Def Con from 0.000259642 to 0.000259645
+Heightened Def Con from 0.000620898 to 0.000620898
+Heightened Def Con from 0.000620898 to 0.000620899
+Heightened Def Con from 0.000620933 to 0.000620934
+Heightened Def Con from 0.000623135 to 0.000623135
+Heightened Def Con from 0.000623135 +to 0.000623135
+Heightened Def Con from 0.000926425 to 0.000926427
+.step frq=7.0401e+006
+.step frq=7.0401e+006
+.step frq=7.0401e+006
